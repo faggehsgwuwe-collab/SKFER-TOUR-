@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "511820866221",
+    "firebase_url": "https://skfer-tour-bc626-default-rtdb.firebaseio.com",
+    "project_id": "skfer-tour-bc626",
+    "storage_bucket": "skfer-tour-bc626.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511820866221:android:6d8596d43935bd54c15c24",
+        "android_client_info": {
+          "package_name": "com.skmuzammel.tournament"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyViUL1dajCY4eEkaRRCjSaqkBXmnj8dQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

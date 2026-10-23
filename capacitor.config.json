@@ -1,0 +1,10 @@
+{
+  "appId": "com.skmuzammel.tournament",
+  "appName": "SKFER TOUR",
+  "webDir": "www",
+  "plugins": {
+    "PushNotifications": {
+      "presentationOptions": ["badge", "sound", "alert"]
+    }
+  }
+}
